@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1428098003
-ModificationTime: 1493519429
+ModificationTime: 1500621461
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -136,10 +136,10 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 96 8 3
+WinInfo: 80 8 3
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mkmk' Mark to Mark in Latin lookup 1 subtable" "Anchor-5" "'mkmk' Mark to Mark in Latin lookup 2 subtable" 
+AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mkmk' Mark to Mark in Latin lookup 1 subtable" "Anchor-5" "'mkmk' Mark to Mark in Latin lookup 2 subtable"
 BeginChars: 65540 352
 
 StartChar: .notdef
@@ -147,7 +147,6 @@ Encoding: 65536 -1 0
 Width: 1322
 Flags: W
 LayerCount: 2
-Back
 Fore
 Validated: 1
 EndChar
@@ -157,7 +156,6 @@ Encoding: 32 32 1
 Width: 561
 Flags: W
 LayerCount: 2
-Back
 Fore
 Validated: 1
 EndChar
@@ -172,7 +170,6 @@ AnchorPoint: "Anchor-2" 661 1384 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 998 312 m 1,0,-1
@@ -207,7 +204,6 @@ AnchorPoint: "Anchor-2" 672 1956 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 752 1628 m 1,0,-1
@@ -247,7 +243,6 @@ AnchorPoint: "Anchor-2" 663 1880 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 448 1643.5 m 128,-1,1
@@ -293,7 +288,6 @@ AnchorPoint: "Anchor-2" 663 1960 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 515 1596 m 1,0,-1
@@ -336,7 +330,6 @@ AnchorPoint: "Anchor-2" 663 1825 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 409 1593.5 m 128,-1,1
@@ -391,7 +384,6 @@ AnchorPoint: "Anchor-2" 528 1956 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 583 1596 m 1,0,-1
@@ -431,7 +423,6 @@ AnchorPoint: "Anchor-2" 663 1926 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 976 1599 m 1,0,-1
@@ -471,7 +462,6 @@ AnchorPoint: "Anchor-2" 661 1384 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1236 -270 m 1,1,-1
@@ -516,7 +506,6 @@ AnchorPoint: "Anchor-2" 663 1484 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 554 1541 m 128,-1,1
@@ -573,7 +562,6 @@ AnchorPoint: "Anchor-2" 663 1868 basechar 0
 AnchorPoint: "Anchor-1" 661 0 basechar 0
 AnchorPoint: "Anchor-0" 1189 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 454 1612 m 1,1,-1
@@ -626,7 +614,6 @@ AnchorPoint: "Anchor-2" 1267 1354 basechar 0
 AnchorPoint: "Anchor-1" 1227 0 basechar 0
 AnchorPoint: "Anchor-0" 1538 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1667 152 m 1,0,-1
@@ -664,7 +651,6 @@ AnchorPoint: "Anchor-2" 587 1434 basechar 0
 AnchorPoint: "Anchor-1" 587 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1 m 1,0,-1
@@ -712,7 +698,6 @@ AnchorPoint: "Anchor-2" 714 1354 basechar 0
 AnchorPoint: "Anchor-1" 634 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 385 66 m 128,-1,1
@@ -752,7 +737,6 @@ AnchorPoint: "Anchor-2" 725 1926 basechar 0
 AnchorPoint: "Anchor-1" 634 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 851 1796 m 1,0,-1
@@ -797,7 +781,6 @@ AnchorPoint: "Anchor-2" 716 1928 basechar 0
 AnchorPoint: "Anchor-1" 634 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 373 1802 m 1,0,-1
@@ -845,7 +828,6 @@ AnchorPoint: "Anchor-2" 714 1354 basechar 0
 AnchorPoint: "Anchor-1" 636 -432 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 846 -109.5 m 128,-1,1
@@ -897,7 +879,6 @@ AnchorPoint: "Anchor-2" 716 1793 basechar 0
 AnchorPoint: "Anchor-1" 634 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 654.5 1578 m 128,-1,1
@@ -947,7 +928,6 @@ AnchorPoint: "Anchor-2" 668 1354 basechar 0
 AnchorPoint: "Anchor-1" 718 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 187 1432 m 1,0,-1
@@ -981,7 +961,6 @@ AnchorPoint: "Anchor-2" 668 1354 basechar 0
 AnchorPoint: "Anchor-1" 718 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 19 68 N 1 0 0 1 0 0 0
 Refer: 335 821 N 1 0 0 1 0 0 0
@@ -998,7 +977,6 @@ AnchorPoint: "Anchor-2" 670 1928 basechar 0
 AnchorPoint: "Anchor-1" 718 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 1802 m 1,0,-1
@@ -1040,7 +1018,6 @@ AnchorPoint: "Anchor-2" 668 1354 basechar 0
 AnchorPoint: "Anchor-1" 718 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 19 68 N 1 0 0 1 0 0 0
 Refer: 335 821 N 1 0 0 1 0 0 0
@@ -1057,7 +1034,6 @@ AnchorPoint: "Anchor-2" 548 1354 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1434 m 1,0,-1
@@ -1087,7 +1063,6 @@ AnchorPoint: "Anchor-2" 559 1926 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 685 1796 m 1,0,-1
@@ -1122,7 +1097,6 @@ AnchorPoint: "Anchor-2" 550 1928 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 207 1802 m 1,0,-1
@@ -1160,7 +1134,6 @@ AnchorPoint: "Anchor-2" 550 1930 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 494 1800 m 1,0,-1
@@ -1198,7 +1171,6 @@ AnchorPoint: "Anchor-2" 550 1795 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 296 1563.5 m 128,-1,1
@@ -1248,7 +1220,6 @@ AnchorPoint: "Anchor-2" 550 1793 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 488.5 1578 m 128,-1,1
@@ -1288,7 +1259,6 @@ AnchorPoint: "Anchor-2" 415 1926 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 228 1794 m 1,0,-1
@@ -1323,7 +1293,6 @@ AnchorPoint: "Anchor-2" 550 1896 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 233 1709 m 1,0,-1
@@ -1358,7 +1327,6 @@ AnchorPoint: "Anchor-2" 548 1354 basechar 0
 AnchorPoint: "Anchor-1" 508 0 basechar 0
 AnchorPoint: "Anchor-0" 819 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 963 -387 m 1,0,1
@@ -1400,7 +1368,6 @@ AnchorPoint: "Anchor-2" 500 1434 basechar 0
 AnchorPoint: "Anchor-1" 500 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1434 m 1,0,-1
@@ -1428,7 +1395,6 @@ AnchorPoint: "Anchor-2" 783 1354 basechar 0
 AnchorPoint: "Anchor-1" 703 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 410 63 m 128,-1,1
@@ -1472,7 +1438,6 @@ AnchorPoint: "Anchor-2" 785 1850 basechar 0
 AnchorPoint: "Anchor-1" 703 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 570 1613.5 m 128,-1,1
@@ -1527,7 +1492,6 @@ AnchorPoint: "Anchor-2" 783 1354 basechar 0
 AnchorPoint: "Anchor-1" 648 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 410 63 m 128,-1,1
@@ -1578,7 +1542,6 @@ AnchorPoint: "Anchor-2" 785 1793 basechar 0
 AnchorPoint: "Anchor-1" 703 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 723.5 1578 m 128,-1,1
@@ -1632,7 +1595,6 @@ AnchorPoint: "Anchor-2" 727 1354 basechar 0
 AnchorPoint: "Anchor-1" 727 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1434 m 1,0,-1
@@ -1662,7 +1624,6 @@ AnchorPoint: "Anchor-2" 727 1354 basechar 0
 AnchorPoint: "Anchor-1" 727 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1426 998 m 1,0,-1
@@ -1705,7 +1666,6 @@ AnchorPoint: "Anchor-2" 273 1354 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1434 m 1,0,-1
@@ -1727,7 +1687,6 @@ AnchorPoint: "Anchor-2" 911 1434 basechar 0
 AnchorPoint: "Anchor-1" 911 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 0
 Refer: 48 74 N 1 0 0 1 545 0 0
@@ -1744,7 +1703,6 @@ AnchorPoint: "Anchor-2" 284 1926 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 410 1796 m 1,0,-1
@@ -1771,7 +1729,6 @@ AnchorPoint: "Anchor-2" 275 1930 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 219 1800 m 1,0,-1
@@ -1801,7 +1758,6 @@ AnchorPoint: "Anchor-2" 275 1795 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 21 1563.5 m 128,-1,1
@@ -1843,7 +1799,6 @@ AnchorPoint: "Anchor-2" 275 1793 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 213.5 1578 m 128,-1,1
@@ -1875,7 +1830,6 @@ AnchorPoint: "Anchor-2" 140 1926 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -47 1794 m 1,0,-1
@@ -1902,7 +1856,6 @@ AnchorPoint: "Anchor-2" 275 1896 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -42 1709 m 1,0,-1
@@ -1929,7 +1882,6 @@ AnchorPoint: "Anchor-2" 273 1354 basechar 0
 AnchorPoint: "Anchor-1" 273 0 basechar 0
 AnchorPoint: "Anchor-0" 286 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 430 -387 m 1,0,1
@@ -1963,7 +1915,6 @@ AnchorPoint: "Anchor-2" 366 1434 basechar 0
 AnchorPoint: "Anchor-1" 366 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 69 -332 m 1,0,1
@@ -1990,7 +1941,6 @@ AnchorPoint: "Anchor-2" 594 1434 basechar 0
 AnchorPoint: "Anchor-1" 594 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 589 749 m 1,0,-1
@@ -2021,7 +1971,6 @@ AnchorPoint: "Anchor-2" 594 1434 basechar 0
 AnchorPoint: "Anchor-1" 539 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1179 0 m 1,0,-1
@@ -2059,7 +2008,6 @@ AnchorPoint: "Anchor-2" 272 1344 basechar 0
 AnchorPoint: "Anchor-1" 482 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1434 m 1,0,-1
@@ -2083,7 +2031,6 @@ AnchorPoint: "Anchor-2" 283 1916 basechar 0
 AnchorPoint: "Anchor-1" 482 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 409 1786 m 1,0,-1
@@ -2112,7 +2059,6 @@ AnchorPoint: "Anchor-2" 272 1344 basechar 0
 AnchorPoint: "Anchor-1" 482 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 0
 Refer: 337 -1 N 1 0 0 1 1094 460 0
@@ -2129,7 +2075,6 @@ AnchorPoint: "Anchor-2" 272 1344 basechar 0
 AnchorPoint: "Anchor-1" 427 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1434 m 1,0,-1
@@ -2160,7 +2105,6 @@ AnchorPoint: "Anchor-2" 272 1344 basechar 0
 AnchorPoint: "Anchor-1" 482 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 0
 Refer: 251 183 N 1 0 0 1 498 131 0
@@ -2178,7 +2122,6 @@ AnchorPoint: "Anchor-2" 272 1344 basechar 0
 AnchorPoint: "Anchor-1" 482 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 932 152 m 1,0,-1
@@ -2210,7 +2153,6 @@ AnchorPoint: "Anchor-2" 920 1434 basechar 0
 AnchorPoint: "Anchor-1" 920 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1434 m 1,0,-1
@@ -2253,7 +2195,6 @@ AnchorPoint: "Anchor-2" 766 1354 basechar 0
 AnchorPoint: "Anchor-1" 766 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1435 m 1,0,-1
@@ -2291,7 +2232,6 @@ AnchorPoint: "Anchor-2" 777 1926 basechar 0
 AnchorPoint: "Anchor-1" 766 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 903 1796 m 1,0,-1
@@ -2334,7 +2274,6 @@ AnchorPoint: "Anchor-2" 768 1928 basechar 0
 AnchorPoint: "Anchor-1" 766 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 425 1802 m 1,0,-1
@@ -2380,7 +2319,6 @@ AnchorPoint: "Anchor-2" 766 1354 basechar 0
 AnchorPoint: "Anchor-1" 711 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 188 1435 m 1,0,-1
@@ -2421,7 +2359,6 @@ Width: 1532
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1345 1 m 1,0,-1
@@ -2465,7 +2402,6 @@ AnchorPoint: "Anchor-2" 768 1838 basechar 0
 AnchorPoint: "Anchor-1" 766 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 838 1588.5 m 128,-1,1
@@ -2521,7 +2457,6 @@ AnchorPoint: "Anchor-2" 772 1354 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 410 70.5 m 128,-1,1
@@ -2564,7 +2499,6 @@ AnchorPoint: "Anchor-2" 783 1926 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 909 1796 m 1,0,-1
@@ -2612,7 +2546,6 @@ AnchorPoint: "Anchor-2" 774 1930 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 718 1800 m 1,0,-1
@@ -2663,7 +2596,6 @@ AnchorPoint: "Anchor-2" 774 1795 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 520 1563.5 m 128,-1,1
@@ -2726,7 +2658,6 @@ AnchorPoint: "Anchor-2" 639 1926 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 452 1794 m 1,0,-1
@@ -2774,7 +2705,6 @@ AnchorPoint: "Anchor-2" 772 1354 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 726 1776 m 1,0,-1
@@ -2827,7 +2757,6 @@ AnchorPoint: "Anchor-2" 774 1896 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 457 1709 m 1,0,-1
@@ -2875,7 +2804,6 @@ AnchorPoint: "Anchor-2" 772 1354 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1400 1014.5 m 128,-1,1
@@ -2928,7 +2856,6 @@ AnchorPoint: "Anchor-2" 774 1838 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 844 1588.5 m 128,-1,1
@@ -2989,7 +2916,6 @@ AnchorPoint: "Anchor-2" 1410 1354 basechar 0
 AnchorPoint: "Anchor-1" 1370 0 basechar 0
 AnchorPoint: "Anchor-0" 1681 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1810 152 m 1,0,-1
@@ -3039,7 +2965,6 @@ AnchorPoint: "Anchor-2" 574 1434 basechar 0
 AnchorPoint: "Anchor-1" 574 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 190 1434 m 1,0,-1
@@ -3076,7 +3001,6 @@ AnchorPoint: "Anchor-2" 574 1434 basechar 0
 AnchorPoint: "Anchor-1" 574 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 841.5 1135 m 128,-1,1
@@ -3115,7 +3039,6 @@ AnchorPoint: "Anchor-2" 772 1434 basechar 0
 AnchorPoint: "Anchor-1" 772 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1293 -106 m 128,-1,1
@@ -3163,7 +3086,6 @@ AnchorPoint: "Anchor-2" 573 1344 basechar 0
 AnchorPoint: "Anchor-1" 613 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 970 0 m 1,0,-1
@@ -3203,7 +3125,6 @@ AnchorPoint: "Anchor-2" 584 1916 basechar 0
 AnchorPoint: "Anchor-1" 613 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 664 1588 m 1,0,-1
@@ -3248,7 +3169,6 @@ AnchorPoint: "Anchor-2" 575 1918 basechar 0
 AnchorPoint: "Anchor-1" 613 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 508 1557 m 1,0,-1
@@ -3296,7 +3216,6 @@ AnchorPoint: "Anchor-2" 573 1344 basechar 0
 AnchorPoint: "Anchor-1" 558 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1186 0 m 1,0,-1
@@ -3343,41 +3262,40 @@ AnchorPoint: "Anchor-2" 544 1354 basechar 0
 AnchorPoint: "Anchor-1" 544 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
-296 14.5 m 128,-1,1
- 201 40 201 40 80 98 c 1,2,-1
- 145 247 l 1,3,4
- 258 189 258 189 339.5 166.5 c 128,-1,5
- 421 144 421 144 501 144 c 0,6,7
- 658 144 658 144 729.5 210.5 c 128,-1,8
- 801 277 801 277 801 386 c 0,9,10
- 801 465 801 465 761.5 517.5 c 128,-1,11
- 722 570 722 570 663.5 602 c 128,-1,12
- 605 634 605 634 503 675 c 0,13,14
- 383 724 383 724 310.5 766 c 128,-1,15
- 238 808 238 808 187 884 c 128,-1,16
- 136 960 136 960 136 1078 c 0,17,18
- 136 1264 136 1264 262 1355.5 c 128,-1,19
- 388 1447 388 1447 599 1447 c 0,20,21
- 770 1447 770 1447 938 1380 c 1,22,-1
- 873 1223 l 1,23,-1
- 848 1232 l 2,24,25
- 786 1256 786 1256 732 1269 c 128,-1,26
- 678 1282 678 1282 602 1282 c 0,27,28
- 473 1282 473 1282 389.5 1235.5 c 128,-1,29
- 306 1189 306 1189 306 1088 c 0,30,31
- 306 1025 306 1025 342.5 980 c 128,-1,32
- 379 935 379 935 433 904.5 c 128,-1,33
- 487 874 487 874 584 831 c 0,34,35
- 710 776 710 776 789 728 c 128,-1,36
- 868 680 868 680 924 596 c 128,-1,37
- 980 512 980 512 980 386 c 0,38,39
- 980 264 980 264 923 174.5 c 128,-1,40
- 866 85 866 85 757 37 c 128,-1,41
- 648 -11 648 -11 495 -11 c 0,42,0
- 391 -11 391 -11 296 14.5 c 128,-1,1
+296 14.5 m 132,-1,1
+ 201 40 201 40 80 98 c 5,2,-1
+ 145 247 l 5,3,4
+ 258 189 258 189 339.5 166.5 c 132,-1,5
+ 421 144 421 144 501 144 c 4,6,7
+ 658 144 658 144 729.5 210.5 c 132,-1,8
+ 801 277 801 277 801 386 c 4,9,10
+ 801 465 801 465 761.5 517.5 c 132,-1,11
+ 722 570 722 570 663.5 602 c 132,-1,12
+ 605 634 605 634 503 675 c 4,13,14
+ 383 724 383 724 310.5 766 c 132,-1,15
+ 238 808 238 808 187 884 c 132,-1,16
+ 136 960 136 960 136 1078 c 4,17,18
+ 136 1264 136 1264 262 1355.5 c 132,-1,19
+ 388 1447 388 1447 599 1447 c 4,20,21
+ 770 1447 770 1447 938 1380 c 5,22,-1
+ 873 1223 l 5,23,-1
+ 848 1232 l 6,24,25
+ 786 1256 786 1256 732 1269 c 132,-1,26
+ 678 1282 678 1282 602 1282 c 4,27,28
+ 473 1282 473 1282 389.5 1235.5 c 132,-1,29
+ 306 1189 306 1189 306 1088 c 4,30,31
+ 306 1025 306 1025 342.5 980 c 132,-1,32
+ 379 935 379 935 433 904.5 c 132,-1,33
+ 487 874 487 874 584 831 c 4,34,35
+ 710 776 710 776 789 728 c 132,-1,36
+ 868 680 868 680 924 596 c 132,-1,37
+ 980 512 980 512 980 386 c 4,38,39
+ 980 264 980 264 923 174.5 c 132,-1,40
+ 866 85 866 85 757 37 c 132,-1,41
+ 648 -11 648 -11 495 -11 c 4,42,0
+ 391 -11 391 -11 296 14.5 c 132,-1,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -3392,7 +3310,6 @@ AnchorPoint: "Anchor-2" 555 1926 basechar 0
 AnchorPoint: "Anchor-1" 544 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 681 1796 m 1,0,-1
@@ -3446,7 +3363,6 @@ AnchorPoint: "Anchor-2" 546 1928 basechar 0
 AnchorPoint: "Anchor-1" 544 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 203 1802 m 1,0,-1
@@ -3503,7 +3419,6 @@ AnchorPoint: "Anchor-2" 544 1354 basechar 0
 AnchorPoint: "Anchor-1" 546 -432 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 342.5 980 m 128,-1,1
@@ -3566,7 +3481,6 @@ AnchorPoint: "Anchor-2" 544 1354 basechar 0
 AnchorPoint: "Anchor-1" 489 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 296 14.5 m 128,-1,1
@@ -3622,7 +3536,6 @@ AnchorPoint: "Anchor-2" 537 1354 basechar 0
 AnchorPoint: "Anchor-1" 537 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 454 1282 m 1,0,-1
@@ -3648,7 +3561,6 @@ AnchorPoint: "Anchor-2" 537 1354 basechar 0
 AnchorPoint: "Anchor-1" 537 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 622 1282 m 1,0,-1
@@ -3682,7 +3594,6 @@ AnchorPoint: "Anchor-2" 539 1928 basechar 0
 AnchorPoint: "Anchor-1" 537 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 196 1802 m 1,0,-1
@@ -3716,7 +3627,6 @@ AnchorPoint: "Anchor-2" 537 1354 basechar 0
 AnchorPoint: "Anchor-1" 539 -432 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 582 0 m 1,0,-1
@@ -3757,7 +3667,6 @@ AnchorPoint: "Anchor-2" 537 1354 basechar 0
 AnchorPoint: "Anchor-1" 482 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 454 1282 m 1,0,-1
@@ -3790,7 +3699,6 @@ AnchorPoint: "Anchor-2" 704 1354 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 297 125 m 128,-1,1
@@ -3819,7 +3727,6 @@ AnchorPoint: "Anchor-2" 715 1926 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 841 1796 m 1,0,-1
@@ -3853,7 +3760,6 @@ AnchorPoint: "Anchor-2" 706 1930 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 650 1800 m 1,0,-1
@@ -3890,7 +3796,6 @@ AnchorPoint: "Anchor-2" 706 1795 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 452 1563.5 m 128,-1,1
@@ -3939,7 +3844,6 @@ AnchorPoint: "Anchor-2" 571 1926 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 384 1794 m 1,0,-1
@@ -3973,7 +3877,6 @@ AnchorPoint: "Anchor-2" 704 1354 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 658 1776 m 1,0,-1
@@ -4012,7 +3915,6 @@ AnchorPoint: "Anchor-2" 706 1896 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 389 1709 m 1,0,-1
@@ -4046,7 +3948,6 @@ AnchorPoint: "Anchor-2" 704 1354 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1237 1434 m 1,0,-1
@@ -4085,7 +3986,6 @@ AnchorPoint: "Anchor-2" 706 1454 basechar 0
 AnchorPoint: "Anchor-1" 704 0 basechar 0
 AnchorPoint: "Anchor-0" 702 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 597 1511 m 128,-1,1
@@ -4136,7 +4036,6 @@ AnchorPoint: "Anchor-2" 636 1384 basechar 0
 AnchorPoint: "Anchor-1" 636 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 16 1433 m 1,0,-1
@@ -4164,7 +4063,6 @@ AnchorPoint: "Anchor-2" 967 1354 basechar 0
 AnchorPoint: "Anchor-1" 957 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 25 1434 m 1,0,-1
@@ -4207,7 +4105,6 @@ AnchorPoint: "Anchor-2" 978 1926 basechar 0
 AnchorPoint: "Anchor-1" 957 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1104 1796 m 1,0,-1
@@ -4255,7 +4152,6 @@ AnchorPoint: "Anchor-2" 969 1930 basechar 0
 AnchorPoint: "Anchor-1" 957 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 913 1800 m 1,0,-1
@@ -4306,7 +4202,6 @@ AnchorPoint: "Anchor-2" 969 1795 basechar 0
 AnchorPoint: "Anchor-1" 957 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 715 1563.5 m 128,-1,1
@@ -4369,7 +4264,6 @@ AnchorPoint: "Anchor-2" 834 1926 basechar 0
 AnchorPoint: "Anchor-1" 957 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 647 1794 m 1,0,-1
@@ -4417,7 +4311,6 @@ AnchorPoint: "Anchor-2" 604 1434 basechar 0
 AnchorPoint: "Anchor-1" 604 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 507 723 m 1,0,-1
@@ -4455,7 +4348,6 @@ AnchorPoint: "Anchor-2" 566 1354 basechar 0
 AnchorPoint: "Anchor-1" 566 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 480 526 m 1,0,-1
@@ -4486,7 +4378,6 @@ AnchorPoint: "Anchor-2" 577 1926 basechar 0
 AnchorPoint: "Anchor-1" 566 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 703 1796 m 1,0,-1
@@ -4522,7 +4413,6 @@ AnchorPoint: "Anchor-2" 568 1930 basechar 0
 AnchorPoint: "Anchor-1" 566 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 512 1800 m 1,0,-1
@@ -4561,7 +4451,6 @@ AnchorPoint: "Anchor-2" 568 1795 basechar 0
 AnchorPoint: "Anchor-1" 566 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 314 1563.5 m 128,-1,1
@@ -4612,7 +4501,6 @@ AnchorPoint: "Anchor-2" 433 1926 basechar 0
 AnchorPoint: "Anchor-1" 566 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 246 1794 m 1,0,-1
@@ -4648,7 +4536,6 @@ AnchorPoint: "Anchor-2" 584 1354 basechar 0
 AnchorPoint: "Anchor-1" 584 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 53 47 m 1,0,-1
@@ -4676,7 +4563,6 @@ AnchorPoint: "Anchor-2" 595 1926 basechar 0
 AnchorPoint: "Anchor-1" 584 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 721 1796 m 1,0,-1
@@ -4709,7 +4595,6 @@ AnchorPoint: "Anchor-2" 586 1928 basechar 0
 AnchorPoint: "Anchor-1" 584 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 243 1802 m 1,0,-1
@@ -4745,7 +4630,6 @@ AnchorPoint: "Anchor-2" 586 1793 basechar 0
 AnchorPoint: "Anchor-1" 584 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 524.5 1578 m 128,-1,1
@@ -4777,7 +4661,7 @@ StartChar: a
 Encoding: 97 97 116
 Width: 1035
 GlyphClass: 2
-Flags: WO
+Flags: W
 HStem: -27 147.095<298.423 620.896> 445 120<320.793 733.715> 817 139<243.769 699.023> 837 142<266.939 680.977>
 VStem: 91 170<175.103 386.805> 736 164<227.658 428.735 526 784.507>
 AnchorPoint: "Anchor-3" 0 0 basechar 0
@@ -4785,7 +4669,6 @@ AnchorPoint: "Anchor-2" 521 980 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 842 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 775 -18 m 1,0,1
@@ -4799,7 +4682,7 @@ SplineSet
  91 365 91 365 144 440 c 128,-1,13
  197 515 197 515 268.5 547 c 0,14,15
  372 593 372 593 471 597 c 0,16,17
- 652 604 652 604 741 581 c 5,18,-1
+ 652 604 652 604 741 581 c 1,18,-1
  739 612 l 2,19,20
  731 740 731 740 696 781 c 0,21,22
  653 831 653 831 514 837 c 0,23,24
@@ -4838,7 +4721,6 @@ AnchorPoint: "Anchor-2" 532 1546 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 869 0 0
@@ -4854,7 +4736,6 @@ AnchorPoint: "Anchor-2" 523 1470 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 321 774 N 1 0 0 1 831 0 0
@@ -4870,7 +4751,6 @@ AnchorPoint: "Anchor-2" 523 1550 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 324 770 N 1 0 0 1 907 0 0
@@ -4886,7 +4766,6 @@ AnchorPoint: "Anchor-2" 523 1415 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 327 776 N 1 0 0 1 952 0 0
@@ -4902,7 +4781,6 @@ AnchorPoint: "Anchor-2" 388 1546 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 329 768 N 1 0 0 1 658 0 0
@@ -4918,7 +4796,6 @@ AnchorPoint: "Anchor-2" 523 1516 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 331 772 N 1 0 0 1 946 0 0
@@ -4934,7 +4811,6 @@ AnchorPoint: "Anchor-2" 521 974 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 962 -260 m 1,1,-1
@@ -4994,7 +4870,6 @@ AnchorPoint: "Anchor-2" 523 1564 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 333 778 N 1 0 0 1 807 0 0
@@ -5010,7 +4885,6 @@ AnchorPoint: "Anchor-2" 523 1458 basechar 0
 AnchorPoint: "Anchor-1" 521 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 116 97 N 1 0 0 1 0 0 0
 Refer: 336 771 N 1 0 0 1 855 0 0
@@ -5026,7 +4900,6 @@ AnchorPoint: "Anchor-2" 841 974 basechar 0
 AnchorPoint: "Anchor-1" 841 0 basechar 0
 AnchorPoint: "Anchor-0" 938 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1410 143 m 128,-1,1
@@ -5099,7 +4972,6 @@ AnchorPoint: "Anchor-2" 602 974 basechar 0
 AnchorPoint: "Anchor-1" 602 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 912.5 939.5 m 128,-1,1
@@ -5144,7 +5016,6 @@ AnchorPoint: "Anchor-2" 473 974 basechar 0
 AnchorPoint: "Anchor-1" 573 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 318 38 m 128,-1,1
@@ -5181,7 +5052,6 @@ AnchorPoint: "Anchor-2" 484 1546 basechar 0
 AnchorPoint: "Anchor-1" 573 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 128 99 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 821 0 0
@@ -5198,7 +5068,6 @@ AnchorPoint: "Anchor-2" 475 1548 basechar 0
 AnchorPoint: "Anchor-1" 573 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 128 99 N 1 0 0 1 0 0 0
 Refer: 322 780 N 1 0 0 1 850 0 0
@@ -5215,7 +5084,6 @@ AnchorPoint: "Anchor-2" 473 974 basechar 0
 AnchorPoint: "Anchor-1" 575 -432 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 766.5 -144 m 128,-1,1
@@ -5262,7 +5130,6 @@ AnchorPoint: "Anchor-2" 475 1413 basechar 0
 AnchorPoint: "Anchor-1" 573 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 128 99 N 1 0 0 1 0 0 0
 Refer: 328 775 N 1 0 0 1 678 0 0
@@ -5279,7 +5146,6 @@ AnchorPoint: "Anchor-2" 603 974 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 914 -16 m 1,0,1
@@ -5320,7 +5186,6 @@ Width: 1145
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 315 41 m 128,-1,1
@@ -5373,7 +5238,6 @@ AnchorPoint: "Anchor-2" 603 974 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 133 100 N 1 0 0 1 0 0 0
 Refer: 337 -1 N 1 0 0 1 1342 0 0
@@ -5390,7 +5254,6 @@ AnchorPoint: "Anchor-2" 603 974 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1040 1184 m 1,0,-1
@@ -5443,7 +5306,6 @@ AnchorPoint: "Anchor-2" 536 974 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 769 143 m 128,-1,1
@@ -5486,7 +5348,6 @@ AnchorPoint: "Anchor-2" 547 1546 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 137 101 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 884 0 0
@@ -5503,7 +5364,6 @@ AnchorPoint: "Anchor-2" 538 1548 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 137 101 N 1 0 0 1 0 0 0
 Refer: 322 780 N 1 0 0 1 913 0 0
@@ -5520,7 +5380,6 @@ AnchorPoint: "Anchor-2" 538 1550 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 137 101 N 1 0 0 1 0 0 0
 Refer: 324 770 N 1 0 0 1 922 0 0
@@ -5537,7 +5396,6 @@ AnchorPoint: "Anchor-2" 538 1415 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 137 101 N 1 0 0 1 0 0 0
 Refer: 327 776 N 1 0 0 1 967 0 0
@@ -5554,7 +5412,6 @@ AnchorPoint: "Anchor-2" 538 1413 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 137 101 N 1 0 0 1 0 0 0
 Refer: 328 775 N 1 0 0 1 741 0 0
@@ -5571,7 +5428,6 @@ AnchorPoint: "Anchor-2" 403 1546 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 137 101 N 1 0 0 1 0 0 0
 Refer: 329 768 N 1 0 0 1 673 0 0
@@ -5588,7 +5444,6 @@ AnchorPoint: "Anchor-2" 538 1516 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 137 101 N 1 0 0 1 0 0 0
 Refer: 331 772 N 1 0 0 1 961 0 0
@@ -5605,7 +5460,6 @@ AnchorPoint: "Anchor-2" 536 974 basechar 0
 AnchorPoint: "Anchor-1" 536 0 basechar 0
 AnchorPoint: "Anchor-0" 964 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 933 -250 m 1,1,-1
@@ -5656,7 +5510,6 @@ AnchorPoint: "Anchor-2" 321 974 basechar 0
 AnchorPoint: "Anchor-1" 321 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 442.5 1345.5 m 128,-1,1
@@ -5695,43 +5548,41 @@ AnchorPoint: "Anchor-2" 603 974 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1040 974 m 1,0,-1
  1040 0 l 2,1,2
- 1040 -246 1040 -246 865.5 -363 c 128,-1,3
- 691 -480 691 -480 375 -482 c 1,4,-1
- 356 -328 l 1,5,6
- 547 -319 547 -319 660.5 -275.5 c 128,-1,7
- 774 -232 774 -232 825 -151.5 c 128,-1,8
- 876 -71 876 -71 876 55 c 2,9,-1
- 876 123 l 1,10,11
- 780 -23 780 -23 537 -23 c 0,12,13
- 406 -23 406 -23 307 38.5 c 128,-1,14
- 208 100 208 100 153.5 212 c 128,-1,15
- 99 324 99 324 99 472 c 0,16,17
- 99 629 99 629 160 748.5 c 128,-1,18
- 221 868 221 868 332.5 934 c 128,-1,19
- 444 1000 444 1000 591 1000 c 0,20,21
- 751 1000 751 1000 895 880 c 1,22,-1
- 917 974 l 5,23,-1
+ 1040 -217 1040 -217 862 -354 c 0,3,4
+ 716 -467 716 -467 340 -460 c 5,5,-1
+ 314 -320 l 1,6,7
+ 505 -313 505 -313 644 -273 c 128,-1,8
+ 783 -233 783 -233 829.5 -152 c 128,-1,9
+ 876 -71 876 -71 876 55 c 2,10,-1
+ 876 123 l 1,11,12
+ 780 -23 780 -23 537 -23 c 0,13,14
+ 406 -23 406 -23 307 38.5 c 128,-1,15
+ 208 100 208 100 153.5 212 c 128,-1,16
+ 99 324 99 324 99 472 c 0,17,18
+ 99 629 99 629 160 748.5 c 128,-1,19
+ 221 868 221 868 332.5 934 c 128,-1,20
+ 444 1000 444 1000 591 1000 c 0,21,22
+ 751 1000 751 1000 895 880 c 1,23,-1
+ 917 974 l 1,24,-1
  1040 974 l 1,0,-1
-877 452 m 1,24,-1
- 877 752 l 1,25,26
- 815 806 815 806 742.5 828.5 c 128,-1,27
- 670 851 670 851 604 851 c 0,28,29
- 503 851 503 851 429 806.5 c 128,-1,30
- 355 762 355 762 315 679.5 c 128,-1,31
- 275 597 275 597 275 483 c 0,32,33
- 275 397 275 397 307 317 c 128,-1,34
- 339 237 339 237 407 185.5 c 128,-1,35
- 475 134 475 134 577 134 c 0,36,37
- 723 134 723 134 799.5 217.5 c 128,-1,38
- 876 301 876 301 876 453 c 1,39,-1
- 877 452 l 1,24,-1
+877 452 m 1,25,-1
+ 877 752 l 1,26,27
+ 815 806 815 806 742.5 828.5 c 128,-1,28
+ 670 851 670 851 604 851 c 0,29,30
+ 503 851 503 851 429 806.5 c 128,-1,31
+ 355 762 355 762 315 679.5 c 128,-1,32
+ 275 597 275 597 275 483 c 0,33,34
+ 275 397 275 397 307 317 c 128,-1,35
+ 339 237 339 237 407 185.5 c 128,-1,36
+ 475 134 475 134 577 134 c 0,37,38
+ 723 134 723 134 799.5 217.5 c 128,-1,39
+ 876 301 876 301 876 453 c 1,40,-1
+ 877 452 l 1,25,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: gbreve
@@ -5744,11 +5595,9 @@ AnchorPoint: "Anchor-2" 605 1470 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 147 103 N 1 0 0 1 0 0 0
 Refer: 321 774 N 1 0 0 1 913 0 0
-Validated: 1
 EndChar
 
 StartChar: uni0123
@@ -5761,11 +5610,9 @@ AnchorPoint: "Anchor-2" 655 1672 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 147 103 N 1 0 0 1 0 0 0
 Refer: 326 786 N 1 0 0 1 816 0 0
-Validated: 1
 EndChar
 
 StartChar: gdotaccent
@@ -5778,11 +5625,9 @@ AnchorPoint: "Anchor-2" 605 1413 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 147 103 N 1 0 0 1 0 0 0
 Refer: 328 775 N 1 0 0 1 808 0 0
-Validated: 1
 EndChar
 
 StartChar: h
@@ -5795,7 +5640,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 842 950 m 128,-1,1
@@ -5829,7 +5673,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 842 950 m 128,-1,1
@@ -5871,7 +5714,6 @@ AnchorPoint: "Anchor-2" 248 974 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 171 1311 m 128,-1,1
@@ -5909,7 +5751,6 @@ AnchorPoint: "Anchor-2" 248 974 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 166 974 m 1,0,-1
@@ -5931,7 +5772,6 @@ AnchorPoint: "Anchor-2" 259 1546 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 154 305 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 596 0 0
@@ -5948,7 +5788,6 @@ AnchorPoint: "Anchor-2" 250 1550 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 154 305 N 1 0 0 1 0 0 0
 Refer: 324 770 N 1 0 0 1 634 0 0
@@ -5965,7 +5804,6 @@ AnchorPoint: "Anchor-2" 250 1415 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 154 305 N 1 0 0 1 0 0 0
 Refer: 327 776 N 1 0 0 1 679 0 0
@@ -5982,7 +5820,6 @@ AnchorPoint: "Anchor-2" 250 1413 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 154 305 N 1 0 0 1 0 0 0
 Refer: 328 775 N 1 0 0 1 453 0 0
@@ -5999,7 +5836,6 @@ AnchorPoint: "Anchor-2" 115 1546 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 154 305 N 1 0 0 1 0 0 0
 Refer: 329 768 N 1 0 0 1 385 0 0
@@ -6016,7 +5852,6 @@ AnchorPoint: "Anchor-2" 774 974 basechar 0
 AnchorPoint: "Anchor-1" 774 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 153 105 N 1 0 0 1 0 0 0
 Refer: 163 106 N 1 0 0 1 526 0 0
@@ -6033,7 +5868,6 @@ AnchorPoint: "Anchor-2" 250 1516 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 154 305 N 1 0 0 1 0 0 0
 Refer: 331 772 N 1 0 0 1 673 0 0
@@ -6050,7 +5884,6 @@ AnchorPoint: "Anchor-2" 250 1413 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 260 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 154 305 N 1 0 0 1 0 0 0
 Refer: 328 775 N 1 0 0 1 453 0 0
@@ -6068,7 +5901,6 @@ AnchorPoint: "Anchor-2" 248 974 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 172 1312 m 128,-1,1
@@ -6106,7 +5938,6 @@ AnchorPoint: "Anchor-2" 248 974 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -156 -322 m 1,0,1
@@ -6133,7 +5964,6 @@ AnchorPoint: "Anchor-2" 509 974 basechar 0
 AnchorPoint: "Anchor-1" 509 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 514 494 m 1,0,-1
@@ -6164,7 +5994,6 @@ AnchorPoint: "Anchor-2" 509 974 basechar 0
 AnchorPoint: "Anchor-1" 454 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 165 107 N 1 0 0 1 0 0 0
 Refer: 325 806 N 1 0 0 1 718 0 0
@@ -6175,13 +6004,12 @@ StartChar: l
 Encoding: 108 108 167
 Width: 496
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-3" 476 1031 basechar 0
 AnchorPoint: "Anchor-2" 250 1364 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 166 1516 m 1,0,-1
@@ -6203,7 +6031,6 @@ AnchorPoint: "Anchor-2" 261 1936 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 167 108 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 598 390 0
@@ -6220,7 +6047,6 @@ AnchorPoint: "Anchor-2" 250 1364 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 167 108 N 1 0 0 1 0 0 0
 Refer: 337 -1 N 1 0 0 1 706 0 0
@@ -6237,7 +6063,6 @@ AnchorPoint: "Anchor-2" 250 1364 basechar 0
 AnchorPoint: "Anchor-1" 193 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 167 108 N 1 0 0 1 0 0 0
 Refer: 325 806 N 1 0 0 1 457 0 0
@@ -6254,7 +6079,6 @@ AnchorPoint: "Anchor-2" 250 1364 basechar 0
 AnchorPoint: "Anchor-1" 248 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 167 108 N 1 0 0 1 0 0 0
 Refer: 251 183 N 1 0 0 1 311 100 0
@@ -6272,7 +6096,6 @@ AnchorPoint: "Anchor-2" 280 1364 basechar 0
 AnchorPoint: "Anchor-1" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 530 811 m 1,0,-1
@@ -6302,7 +6125,6 @@ AnchorPoint: "Anchor-2" 882 974 basechar 0
 AnchorPoint: "Anchor-1" 882 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1457.5 950 m 128,-1,1
@@ -6347,7 +6169,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 842 950 m 128,-1,1
@@ -6381,7 +6202,6 @@ AnchorPoint: "Anchor-2" 591 1546 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 174 110 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 928 0 0
@@ -6398,7 +6218,6 @@ AnchorPoint: "Anchor-2" 582 1548 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 174 110 N 1 0 0 1 0 0 0
 Refer: 322 780 N 1 0 0 1 957 0 0
@@ -6415,7 +6234,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 525 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 174 110 N 1 0 0 1 0 0 0
 Refer: 325 806 N 1 0 0 1 789 0 0
@@ -6432,7 +6250,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 842 950 m 128,-1,1
@@ -6472,7 +6289,6 @@ AnchorPoint: "Anchor-2" 582 1458 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 174 110 N 1 0 0 1 0 0 0
 Refer: 336 771 N 1 0 0 1 914 0 0
@@ -6489,7 +6305,6 @@ AnchorPoint: "Anchor-2" 600 974 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 337.5 38 m 128,-1,1
@@ -6532,7 +6347,6 @@ AnchorPoint: "Anchor-2" 611 1546 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 180 111 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 948 0 0
@@ -6549,7 +6363,6 @@ AnchorPoint: "Anchor-2" 602 1550 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 180 111 N 1 0 0 1 0 0 0
 Refer: 324 770 N 1 0 0 1 986 0 0
@@ -6566,7 +6379,6 @@ AnchorPoint: "Anchor-2" 602 1415 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 180 111 N 1 0 0 1 0 0 0
 Refer: 327 776 N 1 0 0 1 1031 0 0
@@ -6583,7 +6395,6 @@ AnchorPoint: "Anchor-2" 467 1546 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 180 111 N 1 0 0 1 0 0 0
 Refer: 329 768 N 1 0 0 1 737 0 0
@@ -6600,7 +6411,6 @@ AnchorPoint: "Anchor-2" 600 974 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 180 111 N 1 0 0 1 0 0 0
 Refer: 330 779 N 1 0 0 1 1018 0 0
@@ -6617,7 +6427,6 @@ AnchorPoint: "Anchor-2" 602 1516 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 180 111 N 1 0 0 1 0 0 0
 Refer: 331 772 N 1 0 0 1 1025 0 0
@@ -6634,7 +6443,6 @@ AnchorPoint: "Anchor-2" 600 974 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1000 819 m 1,0,1
@@ -6686,7 +6494,6 @@ AnchorPoint: "Anchor-2" 602 1458 basechar 0
 AnchorPoint: "Anchor-1" 600 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 180 111 N 1 0 0 1 0 0 0
 Refer: 336 771 N 1 0 0 1 934 0 0
@@ -6703,7 +6510,6 @@ AnchorPoint: "Anchor-2" 1373 974 basechar 0
 AnchorPoint: "Anchor-1" 1373 0 basechar 0
 AnchorPoint: "Anchor-0" 1801 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1606 143 m 128,-1,1
@@ -6768,7 +6574,6 @@ AnchorPoint: "Anchor-2" 602 974 basechar 0
 AnchorPoint: "Anchor-1" 602 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 907.5 942.5 m 128,-1,1
@@ -6812,7 +6617,6 @@ AnchorPoint: "Anchor-2" 602 974 basechar 0
 AnchorPoint: "Anchor-1" 602 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 907.5 942.5 m 128,-1,1
@@ -6858,7 +6662,6 @@ AnchorPoint: "Anchor-2" 603 974 basechar 0
 AnchorPoint: "Anchor-1" 603 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1040 974 m 1,0,-1
@@ -6901,7 +6704,6 @@ AnchorPoint: "Anchor-2" 356 974 basechar 0
 AnchorPoint: "Anchor-1" 250 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 577 999 m 0,1,2
@@ -6929,7 +6731,6 @@ AnchorPoint: "Anchor-2" 367 1546 basechar 0
 AnchorPoint: "Anchor-1" 250 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 193 114 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 704 0 0
@@ -6946,7 +6747,6 @@ AnchorPoint: "Anchor-2" 358 1548 basechar 0
 AnchorPoint: "Anchor-1" 250 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 193 114 N 1 0 0 1 0 0 0
 Refer: 322 780 N 1 0 0 1 733 0 0
@@ -6963,7 +6763,6 @@ AnchorPoint: "Anchor-2" 356 974 basechar 0
 AnchorPoint: "Anchor-1" 195 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 193 114 N 1 0 0 1 0 0 0
 Refer: 325 806 N 1 0 0 1 459 0 0
@@ -6980,7 +6779,6 @@ AnchorPoint: "Anchor-2" 435 974 basechar 0
 AnchorPoint: "Anchor-1" 425 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 86 53 m 1,1,-1
@@ -7020,7 +6818,6 @@ AnchorPoint: "Anchor-2" 446 1546 basechar 0
 AnchorPoint: "Anchor-1" 425 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 197 115 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 783 0 0
@@ -7037,7 +6834,6 @@ AnchorPoint: "Anchor-2" 437 1548 basechar 0
 AnchorPoint: "Anchor-1" 425 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 197 115 N 1 0 0 1 0 0 0
 Refer: 322 780 N 1 0 0 1 812 0 0
@@ -7054,7 +6850,6 @@ AnchorPoint: "Anchor-2" 435 974 basechar 0
 AnchorPoint: "Anchor-1" 427 -432 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 472 -23 m 1,1,-1
@@ -7108,7 +6903,6 @@ AnchorPoint: "Anchor-2" 435 974 basechar 0
 AnchorPoint: "Anchor-1" 370 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 197 115 N 1 0 0 1 0 0 0
 Refer: 325 806 N 1 0 0 1 634 0 0
@@ -7121,7 +6915,6 @@ Width: 1114
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 649.5 690.5 m 128,-1,1
@@ -7185,7 +6978,6 @@ AnchorPoint: "Anchor-2" 347 974 basechar 0
 AnchorPoint: "Anchor-1" 357 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 373 828 m 1,0,-1
@@ -7223,7 +7015,6 @@ AnchorPoint: "Anchor-2" 347 974 basechar 0
 AnchorPoint: "Anchor-1" 357 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 373 828 m 1,0,-1
@@ -7269,7 +7060,6 @@ AnchorPoint: "Anchor-2" 347 974 basechar 0
 AnchorPoint: "Anchor-1" 357 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 203 116 N 1 0 0 1 0 0 0
 Refer: 337 -1 N 1 0 0 1 864 -80 0
@@ -7286,7 +7076,6 @@ AnchorPoint: "Anchor-2" 347 974 basechar 0
 AnchorPoint: "Anchor-1" 359 -432 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 373 828 m 1,0,-1
@@ -7338,7 +7127,6 @@ AnchorPoint: "Anchor-2" 347 974 basechar 0
 AnchorPoint: "Anchor-1" 302 -617 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 203 116 N 1 0 0 1 0 0 0
 Refer: 325 806 N 1 0 0 1 566 0 0
@@ -7355,7 +7143,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 946 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 869 -16 m 1,0,1
@@ -7379,7 +7166,7 @@ SplineSet
  992 154 992 154 1012 0 c 1,25,-1
  869 -16 l 1,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uacute
@@ -7392,7 +7179,6 @@ AnchorPoint: "Anchor-2" 591 1546 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 208 117 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 928 0 0
@@ -7409,7 +7195,6 @@ AnchorPoint: "Anchor-2" 582 1550 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 208 117 N 1 0 0 1 0 0 0
 Refer: 324 770 N 1 0 0 1 966 0 0
@@ -7426,7 +7211,6 @@ AnchorPoint: "Anchor-2" 582 1415 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 208 117 N 1 0 0 1 0 0 0
 Refer: 327 776 N 1 0 0 1 1011 0 0
@@ -7443,7 +7227,6 @@ AnchorPoint: "Anchor-2" 447 1546 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 208 117 N 1 0 0 1 0 0 0
 Refer: 329 768 N 1 0 0 1 717 0 0
@@ -7460,7 +7243,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 208 117 N 1 0 0 1 0 0 0
 Refer: 330 779 N 1 0 0 1 998 0 0
@@ -7477,7 +7259,6 @@ AnchorPoint: "Anchor-2" 582 1516 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 208 117 N 1 0 0 1 0 0 0
 Refer: 331 772 N 1 0 0 1 1005 0 0
@@ -7494,7 +7275,6 @@ AnchorPoint: "Anchor-2" 580 974 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 1048 -260 m 1,1,-1
@@ -7541,7 +7321,6 @@ AnchorPoint: "Anchor-2" 582 1564 basechar 0
 AnchorPoint: "Anchor-1" 580 0 basechar 0
 AnchorPoint: "Anchor-0" 1043 10 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 208 117 N 1 0 0 1 0 0 0
 Refer: 333 778 N 1 0 0 1 866 0 0
@@ -7558,7 +7337,6 @@ AnchorPoint: "Anchor-2" 490 974 basechar 0
 AnchorPoint: "Anchor-1" 490 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 16 974 m 1,0,-1
@@ -7588,7 +7366,6 @@ AnchorPoint: "Anchor-2" 740 974 basechar 0
 AnchorPoint: "Anchor-1" 740 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 24 974 m 1,0,-1
@@ -7634,7 +7411,6 @@ AnchorPoint: "Anchor-2" 751 1546 basechar 0
 AnchorPoint: "Anchor-1" 740 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 218 119 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 1088 0 0
@@ -7651,7 +7427,6 @@ AnchorPoint: "Anchor-2" 742 1550 basechar 0
 AnchorPoint: "Anchor-1" 740 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 218 119 N 1 0 0 1 0 0 0
 Refer: 324 770 N 1 0 0 1 1126 0 0
@@ -7668,7 +7443,6 @@ AnchorPoint: "Anchor-2" 742 1415 basechar 0
 AnchorPoint: "Anchor-1" 740 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 218 119 N 1 0 0 1 0 0 0
 Refer: 327 776 N 1 0 0 1 1171 0 0
@@ -7685,7 +7459,6 @@ AnchorPoint: "Anchor-2" 607 1546 basechar 0
 AnchorPoint: "Anchor-1" 740 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 218 119 N 1 0 0 1 0 0 0
 Refer: 329 768 N 1 0 0 1 877 0 0
@@ -7702,7 +7475,6 @@ AnchorPoint: "Anchor-2" 470 974 basechar 0
 AnchorPoint: "Anchor-1" 470 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 366 472 m 1,0,-1
@@ -7734,7 +7506,6 @@ AnchorPoint: "Anchor-2" 495 974 basechar 0
 AnchorPoint: "Anchor-1" 495 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 73 -329 m 1,0,1
@@ -7770,7 +7541,6 @@ AnchorPoint: "Anchor-2" 506 1546 basechar 0
 AnchorPoint: "Anchor-1" 495 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 224 121 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 843 0 0
@@ -7787,7 +7557,6 @@ AnchorPoint: "Anchor-2" 496 1550 basechar 0
 AnchorPoint: "Anchor-1" 494 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 224 121 N 1 0 0 1 -1 0 0
 Refer: 324 770 N 1 0 0 1 880 0 0
@@ -7804,7 +7573,6 @@ AnchorPoint: "Anchor-2" 497 1415 basechar 0
 AnchorPoint: "Anchor-1" 495 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 224 121 N 1 0 0 1 0 0 0
 Refer: 327 776 N 1 0 0 1 926 0 0
@@ -7821,7 +7589,6 @@ AnchorPoint: "Anchor-2" 362 1546 basechar 0
 AnchorPoint: "Anchor-1" 495 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 224 121 N 1 0 0 1 0 0 0
 Refer: 329 768 N 1 0 0 1 632 0 0
@@ -7838,20 +7605,19 @@ AnchorPoint: "Anchor-2" 463 974 basechar 0
 AnchorPoint: "Anchor-1" 463 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 SplineSet
-53 51 m 1,0,-1
- 611 827 l 1,1,-1
- 80 827 l 1,2,-1
- 80 974 l 1,3,-1
- 870 974 l 1,4,-1
- 870 927 l 1,5,-1
- 302 147 l 1,6,-1
- 874 147 l 1,7,-1
- 874 0 l 1,8,-1
- 53 0 l 1,9,-1
- 53 51 l 1,0,-1
+53 51 m 5,0,-1
+ 611 827 l 5,1,-1
+ 80 827 l 5,2,-1
+ 80 974 l 5,3,-1
+ 870 974 l 5,4,-1
+ 870 927 l 5,5,-1
+ 302 147 l 5,6,-1
+ 874 147 l 5,7,-1
+ 874 0 l 5,8,-1
+ 53 0 l 5,9,-1
+ 53 51 l 5,0,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -7866,7 +7632,6 @@ AnchorPoint: "Anchor-2" 474 1546 basechar 0
 AnchorPoint: "Anchor-1" 463 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 229 122 N 1 0 0 1 0 0 0
 Refer: 320 769 N 1 0 0 1 811 0 0
@@ -7883,7 +7648,6 @@ AnchorPoint: "Anchor-2" 465 1548 basechar 0
 AnchorPoint: "Anchor-1" 463 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 229 122 N 1 0 0 1 0 0 0
 Refer: 322 780 N 1 0 0 1 840 0 0
@@ -7900,7 +7664,6 @@ AnchorPoint: "Anchor-2" 465 1413 basechar 0
 AnchorPoint: "Anchor-1" 463 0 basechar 0
 AnchorPoint: "Anchor-0" 0 0 basechar 0
 LayerCount: 2
-Back
 Fore
 Refer: 229 122 N 1 0 0 1 0 0 0
 Refer: 328 775 N 1 0 0 1 668 0 0
@@ -7912,7 +7675,6 @@ Encoding: 48 48 233
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 293 57 m 128,-1,1
@@ -7952,7 +7714,6 @@ Encoding: 49 49 234
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 551 1277 m 1,0,-1
@@ -7974,7 +7735,6 @@ Encoding: 50 50 235
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 108 61 m 2,0,1
@@ -8014,7 +7774,6 @@ Encoding: 51 51 236
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 167 183 m 1,0,1
@@ -8057,7 +7816,6 @@ Encoding: 52 52 237
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 687 286 m 1,0,-1
@@ -8085,7 +7843,6 @@ Encoding: 53 53 238
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 161 197 m 1,0,1
@@ -8122,7 +7879,6 @@ Encoding: 54 54 239
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 839.5 836.5 m 128,-1,1
@@ -8167,7 +7923,6 @@ Encoding: 55 55 240
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 807 1276 m 1,0,-1
@@ -8187,7 +7942,6 @@ Encoding: 56 56 241
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 303 35.5 m 128,-1,1
@@ -8248,7 +8002,6 @@ Encoding: 57 57 242
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 890 1289.5 m 128,-1,1
@@ -8289,7 +8042,6 @@ Encoding: 189 189 243
 Width: 1906
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 387 0 m 1,0,-1
@@ -8341,7 +8093,6 @@ Encoding: 188 188 244
 Width: 1856
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 381 0 m 1,0,-1
@@ -8383,7 +8134,6 @@ Encoding: 190 190 245
 Width: 1950
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 447 0 m 1,0,-1
@@ -8448,7 +8198,6 @@ Encoding: 185 185 246
 Width: 719
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 369 1563 m 1,0,-1
@@ -8468,7 +8217,6 @@ Encoding: 178 178 247
 Width: 750
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 98 946 m 2,0,1
@@ -8506,7 +8254,6 @@ Encoding: 179 179 248
 Width: 750
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 237 872 m 128,-1,1
@@ -8549,7 +8296,6 @@ Encoding: 42 42 249
 Width: 854
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 527 1078 m 1,0,-1
@@ -8580,7 +8326,6 @@ Encoding: 92 92 250
 Width: 776
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 -26 1434 m 1,0,-1
@@ -8597,7 +8342,6 @@ Encoding: 183 183 251
 Width: 444
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 141.5 530.5 m 128,-1,1
@@ -8618,7 +8362,6 @@ Encoding: 8226 8226 252
 Width: 832
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 543.5 301.5 m 128,-1,1
@@ -8643,7 +8386,6 @@ Encoding: 58 58 253
 Width: 444
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 129 777.5 m 128,-1,1
@@ -8673,7 +8415,6 @@ Encoding: 44 44 254
 Width: 444
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 39 -194 m 1,0,1
@@ -8692,7 +8433,6 @@ Encoding: 8230 8230 255
 Width: 1501
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 259 46 N 1 0 0 1 26 0 0
 Refer: 259 46 N 1 0 0 1 529 0 0
@@ -8705,7 +8445,6 @@ Encoding: 33 33 256
 Width: 582
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 203 1434 m 1,0,-1
@@ -8731,7 +8470,6 @@ Encoding: 161 161 257
 Width: 582
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 256 33 N -1 0 0 -1 582 1003 0
 Validated: 1
@@ -8742,7 +8480,6 @@ Encoding: 35 35 258
 Width: 1210
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 881 925 m 1,0,-1
@@ -8788,7 +8525,6 @@ Encoding: 46 46 259
 Width: 444
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 141.5 8.5 m 128,-1,1
@@ -8809,7 +8545,6 @@ Encoding: 63 63 260
 Width: 918
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 325 522 m 2,0,1
@@ -8854,7 +8589,6 @@ Encoding: 191 191 261
 Width: 918
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 260 63 N -1 0 0 -1 918 986 0
 Validated: 1
@@ -8865,7 +8599,6 @@ Encoding: 34 34 262
 Width: 803
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 163 1469 m 1,0,-1
@@ -8887,7 +8620,6 @@ Encoding: 39 39 263
 Width: 471
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 163 1469 m 1,0,-1
@@ -8904,7 +8636,6 @@ Encoding: 59 59 264
 Width: 444
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 139 839.5 m 128,-1,1
@@ -8932,7 +8663,6 @@ Encoding: 47 47 265
 Width: 798
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 250 92 N -1 0 0 1 777 0 0
 Validated: 25
@@ -8943,7 +8673,6 @@ Encoding: 95 95 266
 Width: 850
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 347 175 N 1 0 0 1 0 -1486 0
 Validated: 1
@@ -8954,7 +8683,6 @@ Encoding: 123 123 267
 Width: 618
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 248 -16 m 2,1,-1
@@ -8985,7 +8713,6 @@ Encoding: 125 125 268
 Width: 618
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 267 123 N -1 0 0 1 621 0 0
 Validated: 25
@@ -8996,7 +8723,6 @@ Encoding: 91 91 269
 Width: 618
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 1434 m 1,0,-1
@@ -9017,7 +8743,6 @@ Encoding: 93 93 270
 Width: 618
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 269 91 N -1 0 0 1 621 0 0
 Validated: 25
@@ -9028,7 +8753,6 @@ Encoding: 40 40 271
 Width: 618
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 219.5 71.5 m 128,-1,1
@@ -9051,7 +8775,6 @@ Encoding: 41 41 272
 Width: 618
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 271 40 N -1 0 0 1 631 0 0
 Validated: 25
@@ -9062,7 +8785,6 @@ Encoding: 8212 8212 273
 Width: 2048
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 2024 456 m 1,0,-1
@@ -9079,7 +8801,6 @@ Encoding: 8211 8211 274
 Width: 1024
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1024 456 m 1,0,-1
@@ -9096,7 +8817,6 @@ Encoding: 45 45 275
 Width: 819
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 144 585 m 1,0,-1
@@ -9113,7 +8833,6 @@ Encoding: 173 173 276
 Width: 819
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 275 45 N 1 0 0 1 0 0 0
 Validated: 1
@@ -9124,7 +8843,6 @@ Encoding: 171 171 277
 Width: 1036
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 92 487 m 1,0,-1
@@ -9150,7 +8868,6 @@ Encoding: 187 187 278
 Width: 1036
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 74 151 m 1,0,-1
@@ -9176,7 +8893,6 @@ Encoding: 8249 8249 279
 Width: 647
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 92 487 m 1,0,-1
@@ -9195,7 +8911,6 @@ Encoding: 8250 8250 280
 Width: 647
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 279 8249 N -1 0 0 1 651 0 0
 Validated: 25
@@ -9206,7 +8921,6 @@ Encoding: 8222 8222 281
 Width: 772
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 254 44 N 1 0 0 1 321 0 0
 Refer: 254 44 N 1 0 0 1 0 0 0
@@ -9218,7 +8932,6 @@ Encoding: 8220 8220 282
 Width: 772
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 382 1409 m 1,0,1
@@ -9244,7 +8957,6 @@ Encoding: 8221 8221 283
 Width: 772
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 93 1035 m 1,0,1
@@ -9270,7 +8982,6 @@ Encoding: 8216 8216 284
 Width: 469
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 382 1409 m 1,0,1
@@ -9289,7 +9000,6 @@ Encoding: 8217 8217 285
 Width: 469
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 254 44 N 1 0 0 1 50 1229 0
 Validated: 1
@@ -9300,7 +9010,6 @@ Encoding: 8218 8218 286
 Width: 469
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 254 44 N 1 0 0 1 0 0 0
 Validated: 1
@@ -9311,7 +9020,6 @@ Encoding: 13 13 287
 Width: 199
 Flags: W
 LayerCount: 2
-Back
 Fore
 Validated: 1
 EndChar
@@ -9321,7 +9029,6 @@ Encoding: 162 162 288
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 722 -21 m 1,1,-1
@@ -9361,7 +9068,6 @@ Encoding: 164 164 289
 Width: 1138
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 219 m 1,0,-1
@@ -9407,7 +9113,6 @@ Encoding: 36 36 290
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 821 720.5 m 128,-1,1
@@ -9462,7 +9167,6 @@ Encoding: 8364 8364 291
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1060 65 m 1,0,1
@@ -9508,7 +9212,6 @@ Encoding: 402 402 292
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 84 -262 m 1,1,-1
@@ -9543,7 +9246,6 @@ Encoding: 163 163 293
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 888 136 m 1,0,-1
@@ -9584,7 +9286,6 @@ Encoding: 165 165 294
 Width: 1104
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 694 698 m 1,0,-1
@@ -9625,7 +9326,6 @@ Encoding: 126 126 295
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 247 555 m 128,-1,1
@@ -9656,7 +9356,6 @@ Encoding: 247 247 296
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 634 898.5 m 128,-1,1
@@ -9689,7 +9388,6 @@ Encoding: 61 61 297
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 232 876 m 1,0,-1
@@ -9711,7 +9409,6 @@ Encoding: 62 62 298
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 272 276 m 1,0,-1
@@ -9732,7 +9429,6 @@ Encoding: 60 60 299
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 Refer: 298 62 N -1 0 0 1 1404 0 0
 Validated: 25
@@ -9743,7 +9439,6 @@ Encoding: 172 172 300
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1040 684 m 1,0,-1
@@ -9762,7 +9457,6 @@ Encoding: 181 181 301
 Width: 1182
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 956 -39 m 1,0,1
@@ -9796,7 +9490,6 @@ Encoding: 215 215 302
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 268 258 m 1,0,-1
@@ -9821,7 +9514,6 @@ Encoding: 37 37 303
 Width: 1676
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 337 0 m 1,0,-1
@@ -9890,7 +9582,6 @@ Encoding: 8240 8240 304
 Width: 2478
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 337 0 m 1,0,-1
@@ -9985,7 +9676,6 @@ Encoding: 43 43 305
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 635 530 m 1,0,-1
@@ -10010,7 +9700,6 @@ Encoding: 177 177 306
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 635 655 m 1,0,-1
@@ -10040,7 +9729,6 @@ Encoding: 124 124 307
 Width: 490
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 172 1566 m 1,0,-1
@@ -10057,7 +9745,6 @@ Encoding: 166 166 308
 Width: 490
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 172 1566 m 1,0,-1
@@ -10079,7 +9766,6 @@ Encoding: 64 64 309
 Width: 1956
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1738.5 209.5 m 128,-1,1
@@ -10157,7 +9843,6 @@ Encoding: 38 38 310
 Width: 1639
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1561 -42 m 1,0,1
@@ -10217,7 +9902,6 @@ Encoding: 182 182 311
 Width: 938
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 384 903 m 1,0,1
@@ -10246,7 +9930,6 @@ Encoding: 169 169 312
 Width: 1823
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 535.5 67.5 m 128,-1,1
@@ -10304,7 +9987,6 @@ Encoding: 174 174 313
 Width: 1823
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1287 1366 m 128,-1,1
@@ -10362,7 +10044,6 @@ Encoding: 167 167 314
 Width: 918
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 736.5 369.5 m 128,-1,1
@@ -10424,7 +10105,6 @@ Encoding: 8482 8482 315
 Width: 1583
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 262 1286 m 1,0,-1
@@ -10462,7 +10142,6 @@ Encoding: 176 176 316
 Width: 772
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 243.5 933.5 m 128,-1,1
@@ -10500,7 +10179,6 @@ Encoding: 94 94 317
 Width: 1401
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 652 1458 m 1,0,-1
@@ -10521,7 +10199,6 @@ Encoding: 8224 8224 318
 Width: 768
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 445 1084 m 1,0,-1
@@ -10546,7 +10223,6 @@ Encoding: 8225 8225 319
 Width: 768
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 465 1008 m 1,0,-1
@@ -10585,7 +10261,6 @@ AnchorPoint: "Anchor-5" -337 1546 basemark 0
 AnchorPoint: "Anchor-5" -348 974 mark 0
 AnchorPoint: "Anchor-2" -348 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -231 1546 m 1,0,-1
@@ -10606,7 +10281,6 @@ AnchorPoint: "Anchor-5" -308 1470 basemark 0
 AnchorPoint: "Anchor-5" -310 974 mark 0
 AnchorPoint: "Anchor-2" -310 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -452 1240.5 m 128,-1,1
@@ -10634,7 +10308,6 @@ AnchorPoint: "Anchor-5" -375 1548 basemark 0
 AnchorPoint: "Anchor-5" -377 974 mark 0
 AnchorPoint: "Anchor-2" -377 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -658 1548 m 1,0,-1
@@ -10658,7 +10331,6 @@ AnchorPoint: "Anchor-4" -197 -432 basemark 0
 AnchorPoint: "Anchor-4" -199 0 mark 0
 AnchorPoint: "Anchor-1" -199 0 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -292 -430 m 1,1,-1
@@ -10687,7 +10359,6 @@ AnchorPoint: "Anchor-5" -384 1550 basemark 0
 AnchorPoint: "Anchor-5" -386 974 mark 0
 AnchorPoint: "Anchor-2" -386 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -453 1550 m 1,0,-1
@@ -10711,7 +10382,6 @@ AnchorPoint: "Anchor-4" -264 -617 basemark 0
 AnchorPoint: "Anchor-4" -209 0 mark 0
 AnchorPoint: "Anchor-1" -209 0 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -405 -547 m 1,0,1
@@ -10734,7 +10404,6 @@ AnchorPoint: "Anchor-5" -161 1672 basemark 0
 AnchorPoint: "Anchor-5" -213 974 mark 0
 AnchorPoint: "Anchor-2" -213 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -35 1572 m 1,0,1
@@ -10757,7 +10426,6 @@ AnchorPoint: "Anchor-5" -429 1415 basemark 0
 AnchorPoint: "Anchor-5" -431 974 mark 0
 AnchorPoint: "Anchor-2" -431 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -683 1183.5 m 128,-1,1
@@ -10793,7 +10461,6 @@ AnchorPoint: "Anchor-5" -203 1413 basemark 0
 AnchorPoint: "Anchor-5" -205 974 mark 0
 AnchorPoint: "Anchor-2" -205 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -264.5 1198 m 128,-1,1
@@ -10819,7 +10486,6 @@ AnchorPoint: "Anchor-5" -270 1546 basemark 0
 AnchorPoint: "Anchor-5" -137 974 mark 0
 AnchorPoint: "Anchor-2" -137 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -447 1536 m 1,0,-1
@@ -10839,7 +10505,6 @@ Flags: W
 AnchorPoint: "Anchor-5" -418 974 mark 0
 AnchorPoint: "Anchor-2" -418 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -394 1536 m 1,0,-1
@@ -10865,7 +10530,6 @@ AnchorPoint: "Anchor-5" -423 1516 basemark 0
 AnchorPoint: "Anchor-5" -425 974 mark 0
 AnchorPoint: "Anchor-2" -425 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -800 1329 m 1,0,-1
@@ -10884,7 +10548,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" -111 10 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -307 -240 m 0,1,2
@@ -10911,7 +10574,6 @@ AnchorPoint: "Anchor-5" -284 1564 basemark 0
 AnchorPoint: "Anchor-5" -286 974 mark 0
 AnchorPoint: "Anchor-2" -286 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -393 1171 m 128,-1,1
@@ -10945,7 +10607,6 @@ Encoding: 822 822 334
 Width: 0
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 28 1150 m 1,0,-1
@@ -10962,7 +10623,6 @@ Encoding: 821 821 335
 Width: 0
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 93 773 m 1,0,-1
@@ -10983,7 +10643,6 @@ AnchorPoint: "Anchor-5" -332 1458 basemark 0
 AnchorPoint: "Anchor-5" -334 974 mark 0
 AnchorPoint: "Anchor-2" -334 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -262 1208.5 m 128,-1,1
@@ -11015,7 +10674,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-3" -150 974 mark 0
 LayerCount: 2
-Back
 Fore
 SplineSet
 -212 1516 m 1,0,-1
@@ -11032,7 +10690,6 @@ Encoding: 180 180 338
 Width: 578
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 338 1546 m 1,0,-1
@@ -11049,7 +10706,6 @@ Encoding: 728 728 339
 Width: 622
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 170 1240.5 m 128,-1,1
@@ -11073,7 +10729,6 @@ Encoding: 711 711 340
 Width: 760
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 102 1548 m 1,0,-1
@@ -11093,7 +10748,6 @@ Encoding: 184 184 341
 Width: 420
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 51 -430 m 1,1,-1
@@ -11118,7 +10772,6 @@ Encoding: 710 710 342
 Width: 760
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 307 1550 m 1,0,-1
@@ -11138,7 +10791,6 @@ Encoding: 168 168 343
 Width: 848
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 165 1183.5 m 128,-1,1
@@ -11170,7 +10822,6 @@ Encoding: 729 729 344
 Width: 412
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 147.5 1198 m 128,-1,1
@@ -11192,7 +10843,6 @@ Encoding: 96 96 345
 Width: 549
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 102 1536 m 1,0,-1
@@ -11209,7 +10859,6 @@ Encoding: 733 733 346
 Width: 664
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 1536 m 1,0,-1
@@ -11231,7 +10880,6 @@ Encoding: 175 175 347
 Width: 850
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 50 1329 m 1,0,-1
@@ -11248,7 +10896,6 @@ Encoding: 731 731 348
 Width: 379
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 72 -240 m 0,1,2
@@ -11271,7 +10918,6 @@ Encoding: 730 730 349
 Width: 574
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 181 1201 m 128,-1,1
@@ -11305,7 +10951,6 @@ Encoding: 732 732 350
 Width: 690
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 428 1208.5 m 128,-1,1
@@ -11335,7 +10980,6 @@ Encoding: 65539 -1 351
 Width: 455
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 89 1035 m 1,0,1
